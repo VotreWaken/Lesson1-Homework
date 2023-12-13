@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/script.js"></script>
+</head>
+<body>
+
+    <!-- Container -->
+    <div class="container" id="container">
+
+        <!-- Header -->
+        <header>
+
+            <!-- Navigation -->
+            <nav>
+                <a href="/">Home</a>
+                <a href="html/randomFilms.html">Random Films</a>
+            </nav>
+
+        </header>
+
+        <!-- Film Section -->
+        <section>
+            <div class="film__section">
+                <img id="film__img" draggable="false" src="" alt="">
+                <div class="Right__side">
+                    <h1 id="film__title"></h1>
+                    <ul>
+                        <li>Year: </li>
+                        <li>Released: </li>
+                        <li>Runtime: </li>
+                        <li>Genre: </li>
+                        <li>Director: </li>
+                        <li>Writer: </li>
+                        <li>Actors: </li>
+                        <li>Plot: </li>
+                        <li>Language: </li>
+                        <li>Country: </li>
+                        <li>Awards: </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search Section -->
+        <section>
+            <div class="input__section">
+                <input id="input__film" placeholder="Type Movie Name" type="text" />
+                <button id="searchBtn">Search</button>
+            </div>
+        </section>
+
+    </div>
+</body>
+</html>

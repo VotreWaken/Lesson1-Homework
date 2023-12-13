@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\cprojects\\webtest\\webtest\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\cprojects\\webtest\\webtest\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "D:\\cprojects\\webtest\\webtest\\wwwroot\\html\\randomFilms.html",
+      "PackagePath": "staticwebassets\\html\\randomFilms.html"
+    },
+    {
+      "Id": "D:\\cprojects\\webtest\\webtest\\wwwroot\\js\\randomFilm.js",
+      "PackagePath": "staticwebassets\\js\\randomFilm.js"
+    },
+    {
+      "Id": "D:\\cprojects\\webtest\\webtest\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstLessonHomework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FirstLessonHomework.props",
+      "PackagePath": "build\\FirstLessonHomework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstLessonHomework.props",
+      "PackagePath": "buildMultiTargeting\\FirstLessonHomework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FirstLessonHomework.props",
+      "PackagePath": "buildTransitive\\FirstLessonHomework.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
